@@ -1,0 +1,94 @@
+body {
+    font-family: 'Helvetica';
+    
+}
+
+
+
+
+.head {
+    background-color: #00838F;
+    text-align: center;
+    width: auto;
+    height: 100px;
+    
+}
+
+#naglowek {
+    color: white;
+    font-size: 190%;
+    padding-top: 25px;
+    
+}
+
+
+
+
+
+
+.left {
+    background-color: #efefef;
+    float: left;
+    width: 52%;
+    height: 782px;
+}
+
+.L1 {
+    height: 270px;
+}
+
+.L1 p {
+   font-weight: bolder;
+   font-size: 140%;
+}
+
+.L2 p {
+    font-weight: bolder;
+    font-size: 140%;
+}
+
+
+
+
+
+
+.P1 {
+    background-color: #4FB3BF;
+    float: right;
+    width: 48%;
+    height: 782px;
+}
+
+.zdj {
+    margin-top: 60px;
+    margin-left: 130px;
+    box-shadow: 10px 10px 7px dimgray;
+    width: 400px;
+    height: 320px;
+
+}
+
+#kw {
+    margin-left: 30%;
+    padding-top: 20px;
+}
+
+
+
+
+
+
+
+
+.footer {
+    margin-top: 782px;
+    background-color: #00838F;
+    text-align: center;
+    width: auto;
+    height: 60px;
+}
+
+.ftr {
+    color: white;
+    padding-top: 20px;
+}
