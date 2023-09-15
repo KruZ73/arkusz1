@@ -1,5 +1,6 @@
 body {
     font-family: 'Helvetica';
+   
     
 }
 
@@ -29,12 +30,16 @@ body {
 .left {
     background-color: #efefef;
     float: left;
-    width: 52%;
-    height: 782px;
+    width: 55%;
+    height: 450px;
 }
 
 .L1 {
-    height: 270px;
+    height: 150px;
+}
+
+.L2 {
+    height: 150px;
 }
 
 .L1 p {
@@ -55,13 +60,13 @@ body {
 .P1 {
     background-color: #4FB3BF;
     float: right;
-    width: 48%;
-    height: 782px;
+    width: 45%;
+    height: 450px;
 }
 
 .zdj {
     margin-top: 60px;
-    margin-left: 130px;
+    margin-left: 100px;
     box-shadow: 10px 10px 7px dimgray;
     width: 400px;
     height: 320px;
@@ -69,7 +74,7 @@ body {
 }
 
 #kw {
-    margin-left: 30%;
+    margin-left: 40%;
     padding-top: 20px;
 }
 
@@ -81,7 +86,7 @@ body {
 
 
 .footer {
-    margin-top: 782px;
+    margin-top: 450px;
     background-color: #00838F;
     text-align: center;
     width: auto;

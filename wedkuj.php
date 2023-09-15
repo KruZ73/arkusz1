@@ -49,7 +49,7 @@
 
 
     <footer class="footer">
-        <p class="ftr">Stronę wykonał: Kacper Krużycki</p>
+        <p class="ftr">Stronę wykonał: 04</p>
     </footer>
 
 
